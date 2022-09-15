@@ -1,6 +1,6 @@
 # Car Dealer Hardhat Project
 
-This is Car Dealer DApp that helps in selling your own car built on the Etheruem Georli Network using Hardhat, Solidity & Alchemy.
+This is Car Dealer DApp that helps in selling your own car built on the Ethereum Goerli Network using Hardhat, Solidity & Alchemy.
 
 Try running some of the following tasks:
 
